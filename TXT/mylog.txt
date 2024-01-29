@@ -6,6 +6,7 @@
 # LogCode + Description List
 
 ZCZC W00 5 L01 SCELE/Discord related
+ZCZC W00 90 L02 CLASSROOM/ZOOM meetings related
 ZCZC W00 10 L03 Github related
 ZCZC W00 3 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc.
 
