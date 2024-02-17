@@ -1,10 +1,14 @@
-[Link to mylog.txt](TXT/mylog.txt)
+## 🌟 Link: 
+### Selamat datang di halaman ini. 
 
-[Link to GitHub](https://github.com/facesofgoblin/os241)
+- [Link to mylog.txt](TXT/mylog.txt)
 
-[Link to Links directory](LINKS/)
+- [Link to GitHub](https://github.com/facesofgoblin/os241)
 
-Name: Rana Koesumastuti
-NPM: 2206083496
-Github Account: facesofgoblin
+- [Link to Links directory](LINKS/)
 
+
+### Informasi Pribadi:
+- **Nama:** Rana Koesumastuti
+- **NPM:** 2206083496
+- **Github Account:** [facesofgoblin](https://github.com/facesofgoblin)
