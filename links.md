@@ -18,4 +18,6 @@ permalink: LINKS/
 2. [What is a Kernel and what does it do? Explore the Kernels of Linux, Windows, and MacOS.](#)
   <br> Video ini mampu menjelaskan mengenai Kernel secara jelas melalui ilustrasi sederhana. Selain membahas kernel, video ini juga menyinggung secara singkat kernel pada setiap sistem operasi dan perbedaan antara linux dan kernel.</br>
 
-  3. [Linux - Tarballs, Archive and Compress Folders (tar)](https://www.youtube.com/watch?v=l0yqs8t6ywo&ab_channel=ElitheComputerGuy) <br> Video menjelaskan tentang bagaaimana cara kerja tarballs di Linux. Proses yang dijelaskan seperti 'archieve, compressing, listing'.</br>
+3. [Linux - Tarballs, Archive and Compress Folders (tar)](https://www.youtube.com/watch?v=l0yqs8t6ywo&ab_channel=ElitheComputerGuy) <br> Video menjelaskan tentang bagaaimana cara kerja tarballs di Linux. Proses yang dijelaskan seperti 'archieve, compressing, listing'.</br>
+
+4. [Virtual Memory](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/) <br> Menjelaskan mengenai virtual memori pada sistem operasi</br>
