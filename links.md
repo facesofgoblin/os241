@@ -21,3 +21,5 @@ permalink: LINKS/
 3. [Linux - Tarballs, Archive and Compress Folders (tar)](https://www.youtube.com/watch?v=l0yqs8t6ywo&ab_channel=ElitheComputerGuy) <br> Video menjelaskan tentang bagaaimana cara kerja tarballs di Linux. Proses yang dijelaskan seperti 'archieve, compressing, listing'.</br>
 
 4. [Virtual Memory](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/) <br> Menjelaskan mengenai virtual memori pada sistem operasi</br>
+
+5. [Linux in 100 Seconds](https://www.youtube.com/watch?v=rrB13utjYV4&pp=ygUOZmlyZXNoaXAgbGludXg%3D) <br>Penjelasan singkat dan mudah dipahami tentang sistem operasi Linux.</br>
