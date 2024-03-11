@@ -23,3 +23,6 @@ permalink: LINKS/
 4. [Virtual Memory](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/) <br> Menjelaskan mengenai virtual memori pada sistem operasi</br>
 
 5. [Linux in 100 Seconds](https://www.youtube.com/watch?v=rrB13utjYV4&pp=ygUOZmlyZXNoaXAgbGludXg%3D) <br>Penjelasan singkat dan mudah dipahami tentang sistem operasi Linux.</br>
+
+6. [Bash Scripting Tutorial for Beginners](https://www.youtube.com/watch?v=tK9Oc6AEnR4) <br>Tutorial scripting Bash dijelaskan perlahan selama 50 menit. Video ini mengajarkan perintah dasar, argumen, perbandingan, kondisional, arrays, perulangan, fungsi, awk, dan set.</br>
+
